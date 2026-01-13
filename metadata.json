@@ -1,0 +1,7 @@
+{
+  "name": "Rahul Haldar Digital Profile",
+  "description": "A digital profile card with contact details, UPI payment integration, and QR code scanning capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
